@@ -8,7 +8,7 @@ function GitHubCard (props) {
         <div className='cardContainer'>
             <img src={props.props.avatar_url} alt=''/>
                 <div id='title'>
-                    <img src='http://pngimg.com/uploads/github/github_PNG58.png'/>
+                    <img src='https://png2.cleanpng.com/sh/d6b2ab56f657765cc4391f2c096c4602/L0KzQYm3VcE1N6J6j5H0aYP2gLBuTfdqfJl6ep91b3fyPcPskP90caV0ius2Y3BwgMb7hgIucZR0huU2NXHpcYSAVvM2OZRmUaY3M0i6QYe9VcMyPWM7S6YCNkK7Q4S8TwBvbz==/kisspng-github-logo-repository-computer-icons-5afa376c51ca94.387166531526347628335.png'/>
                     <h1>{props.props.name}</h1>
                 </div>
                 <p>
